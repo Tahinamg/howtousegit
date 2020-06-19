@@ -1,3 +1,3 @@
 alert("hello");
-alert("enao");
-alert("tsika");
+var i = "manakory";
+alert(i);
