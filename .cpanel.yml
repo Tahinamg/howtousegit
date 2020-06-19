@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/user/public_html/textfacebook/
+    - export DEPLOYPATH=/home/emediam/public_html/textfacebook/
     - /bin/cp main.js $DEPLOYPATH
