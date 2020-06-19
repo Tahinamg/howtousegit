@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/emediam/public_html/textfacebook/
-    - /bin/cp main.js $DEPLOYPATH
+    - /bin/cp -f {main.js,main.css} $DEPLOYPATH
